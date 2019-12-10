@@ -28,7 +28,7 @@ now the main.py file executes the whole program and takes main.csv as a datafile
 * Has the tooltip to view details when the curser is placed above the marker.
 * Has the custom logo. To modify it one can replace the icon.png file or can provide the marker's location.
 * The data is imported from the csv file so one can either create a csv file with the same headings.
-* One can edit the circle marker and can t=mark the circle to the place you want. this is helpful when you want to select a larger reigon or don't know the exact location.
+* One can edit the circle marker and can mark the circle to the place you want. this is helpful when you want to select a larger reigon or don't know the exact location.
 * One can also edit the initial place from where the map would be displayed by editing the ``` folium.map() ```
 
 Further details are provided in the files itself.
