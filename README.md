@@ -8,7 +8,8 @@ Wanna Create a Web map using python, it is the right coise.
 
 # installation
 * Install the following pyton modules:-
-``` pip install pandas
+``` 
+pip install pandas
 pip install folium
 pip install branca 
 ```
